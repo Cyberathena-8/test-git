@@ -1,1 +1,2 @@
-new lines into the test file 
+new lines into the test file
+new.txts    b   hkm  
